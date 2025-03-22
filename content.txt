@@ -1,0 +1,5 @@
+1. brief introduction (what is git, github,gitlab,coderider)
+2. why we need this kind of tools
+3. show them example of git,github,gitlab and coderider
+4. Teach them how to use git on their own computer
+5. Teach them how to use gitlab and coderider
